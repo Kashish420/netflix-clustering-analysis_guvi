@@ -1,5 +1,4 @@
-# netflix-clustering-analysis_guvi
-# Netflix Clustering Analysis
+# Netflix-clustering-analysis_guvi
 
 This project applies unsupervised learning techniques to cluster Netflix movies and TV shows based on metadata like genres, duration, and release year. The objective is to uncover meaningful content groupings for recommendations and content analysis.
 
